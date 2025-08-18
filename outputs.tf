@@ -1,0 +1,2 @@
+
+# output.tf folder is updated, now go and check in your vpc-module-test this output.tf folder is came to your vpc-module-test (or) NOT. If NOT just go to your vpc-module-test folder in Gitbash enter terraform init -upgrade enter that's it. Happy learning. 😄
