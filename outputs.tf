@@ -16,5 +16,5 @@ output "private_subnet_ids" {      # <--- list kada
 }
 
 output "database_subnet_ids" {      # <--- list kada 
-    value = aws_subnet.dasebase[*].id
+    value = aws_subnet.datebase[*].id
 }
